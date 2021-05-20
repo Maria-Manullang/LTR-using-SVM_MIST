@@ -13,15 +13,6 @@ Million queries dataset from TREC 2008 :
 | mq2008       | train | 9630   | 46      | (5, 8, 121)                               | 
 |              | test  | 2874   | 46      | (6, 14, 119)                              | 
 
-<p align="center">
-<img src="img/ranking_problem.svg" width="400" align="middle"/>
-<h4 align="center"> Figure 1. Ranking Problem </h4>
-</p>
-
-<p align="center">
-<img src="img/ranking_svm.svg" width="400" align="middle"/>
-<h4 align="center"> Figure 2. Ranking SVM </h4>
-</p>
 
 
 A project by:
